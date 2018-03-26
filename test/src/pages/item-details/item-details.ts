@@ -6,7 +6,6 @@ import { NavController, NavParams } from 'ionic-angular';
 @Component({
   selector: 'page-item-details',
   templateUrl: 'item-details.html'
-  styleUrls: ['item-details.scss']
 })
 export class ItemDetailsPage {
   selectedItem: any;
